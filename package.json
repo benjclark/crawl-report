@@ -1,0 +1,31 @@
+{
+  "name": "crawl-report",
+  "description": "Please use Node 16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjclark/crawl-report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjclark/crawl-report/issues"
+  },
+  "homepage": "https://github.com/benjclark/crawl-report#readme",
+  "devDependencies": {
+    "prettier": "2.8.2"
+  },
+  "dependencies": {
+    "next": "^13.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
